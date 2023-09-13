@@ -1,5 +1,7 @@
 # Treating the Incomes of City Residents
 
+![City](city.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data](#data)
