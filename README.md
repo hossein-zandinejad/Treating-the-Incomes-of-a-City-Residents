@@ -1,6 +1,6 @@
 # Treating the Incomes of City Residents
 
-![City](city.png)
+![City](city.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
